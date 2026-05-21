@@ -1,6 +1,6 @@
 # GE-IT-SKILLS-Portfolio
-## ABOUT ME
-### Hi There! I am Gavin Ross O. Javier
+## Hi There! I am Gavin Ross O. Javier
+### ABOUT ME
 ### I have a passion for financial markets, analytical thinking, and building a future in corporate finance.
 ## Brand Identity Hex Codes
 * Primary Color `#0d1b2e`
