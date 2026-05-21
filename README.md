@@ -3,6 +3,6 @@
 ### ABOUT ME
 ### I have a passion for financial markets, analytical thinking, and building a future in corporate finance.
 ## Brand Identity Hex Codes
-*  `#0d1b2e`
+* `#0d1b2e`
 * `#f0ede8`
-* `#81e4d0`
+* `#64c8b4`
