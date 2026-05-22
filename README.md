@@ -9,17 +9,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### `[ DATA · DECISIONS · DISCIPLINE ]`
-
-**Bridging data and decision-making** — a BS Finance student with a passion for financial markets, analytical thinking, and building a future in corporate finance.
-
-</div>
-
----
 
 ## `// ABOUT ME`
 
