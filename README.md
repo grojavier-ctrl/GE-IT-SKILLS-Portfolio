@@ -23,14 +23,6 @@
 
 ## `// ABOUT ME`
 
-```yaml
-name       : Gavin Ross O. Javier
-role       : Aspiring Financial Analyst
-status     : BS Finance · Undergraduate
-location   : Philippines 🇵🇭
-tagline    : "Bridging data and decision-making."
-goal       : Corporate Finance · Investment Banking · Equity Research
-```
 
 I'm a finance student who believes that good financial decisions start with solid data and clear thinking. Currently building my foundations in accounting, investments, and corporate finance — and working toward becoming the kind of analyst who turns numbers into strategy.
 
@@ -55,9 +47,13 @@ I'm a finance student who believes that good financial decisions start with soli
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavin_Ross_Javier-0d1b2e?style=for-the-badge&logo=linkedin&logoColor=64c8b4)](https://linkedin.com/in/gavin-javier-642104380/)
-[![Email](https://img.shields.io/badge/Email-reach_out-0d1b2e?style=for-the-badge&logo=gmail&logoColor=64c8b4)](mailto:grojavier@gmail.com)
+[![Email](https://img.shields.io/badge/Email-reach_out-0d1b2e?style=for-the-badge&logo=gmail&logoColor=64c8b4)](mailto:grojavier@addu.edu.ph)
 
 </div>
+
+---
+
+<div align= "center">
 
 
 *"The goal of a financial analyst is not just to understand the numbers — but to tell the story behind them."*
