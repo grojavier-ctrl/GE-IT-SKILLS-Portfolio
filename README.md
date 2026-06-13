@@ -41,7 +41,7 @@ Greetings! I am Gavin Javier, I have a huge passion for everything finance relat
 
 ### Project 4 — Interactive Interaction & Motion
 
-> 🎬 No preview file found — add a screenshot to `media/` and update this line.
+> 🎬 [Watch Interactive & Motion Video](media/Javier_introduction.mp4)
 
 **Reflection:** Write 2–3 sentences about your design choices here.
 
