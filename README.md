@@ -17,14 +17,9 @@ Greetings! I am Gavin Javier, I have a huge passion for everything finance relat
 ### Project 1 — Branding
 
 ![Brand Logo](Brand-assets/Brand-Logo.png)
-![Branding Palette](Brand-assets/branding-palette.pdf)
+![Branding Palette](Brand-assets/palette.png)
 ![LinkedIn Banner](Brand-assets/linkedIn-banner.png)
-
-
 > 📄 [View PDF](Brand-assets/C.R.A.P.%20Principles%20-JAVIER.pdf)
-![Brand Logo](Visuals/Brand-Logo.png)
-![Branding Palette](Visuals/branding-palette.pdf)
-![LinkedIn Banner](Visuals/linkedIn-banner.png)
 
 
 
