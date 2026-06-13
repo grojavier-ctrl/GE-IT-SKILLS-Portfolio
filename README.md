@@ -34,6 +34,7 @@ I designed this as a personal resume applying the C.R.A.P. principles — Contra
 ![Promotional Graphic](Visuals/Promotional.png)
 
 **Both pieces use a consistent dark navy and teal color scheme that reflects the tone of the finance industry — trustworthy, clean, and modern. The profile banner keeps it minimal with the GJ monogram logo and title, while the promotional graphic expands the brand with a services breakdown. Keeping both visually unified ensures a cohesive personal brand across platforms.**
+
 ---
 
 ### Project 3 — Infographics
