@@ -1,6 +1,6 @@
 # Gavin Javier — Portfolio
 
-![Header Banner](Brand-assets/header.png)
+![Header Banner](Visuals/Profile%20Banner.png)
 
 > **"Building a future in corporate finance."**
 
@@ -8,50 +8,51 @@
 
 ## About Me
 
-Greetings! I am Gavin Javier, I have a huge passion for everything finance related. I can do financial modeling, financial statement analysis and reporting. I'm Currently building my foundations in accounting, investments, and corporate finance and working toward becoming the kind of analyst who turns numbers into strategy.
+Greetings! I am Gavin Javier, I have a huge passion for everything finance related. I can do financial modeling, financial statement analysis and reporting. I'm currently building my foundations in accounting, investments, and corporate finance and working toward becoming the kind of analyst who turns numbers into strategy.
 
 ---
 
 ## Projects
 
-### Project 1 — [C.R.A.P Principles Activity]
+### Project 1 — C.R.A.P Principles Activity
 
-![Project 1 Preview](Brand-assets/C.R.A.P.Principles-JAVIER.pdf)
+> 📄 [View PDF](Brand-assets/C.R.A.P.%20Principles%20-JAVIER.pdf)
 
-**Reflection:** Explain your design choices in 2–3 sentences. Why did you pick those colors, layout, or style? What problem were you solving?
-
----
-
-### Project 2 — [Social Media Bundle]
-
-![Project 2 Preview](Visuals/ProfileBanner.png)
-![Second Image Preview](Visuals/Promotional.png)
-
-**Reflection:** Explain your design choices in 2–3 sentences.
+**Reflection:** Write 2–3 sentences about your design choices here. Why did you pick those colors, layout, or style? What problem were you solving?
 
 ---
 
-### Project 3 — [Infographics]
+### Project 2 — Social Media Bundle
 
-![Project 3 Preview](docs/infographic.png)
+![Profile Banner](Visuals/Profile%20Banner.png)
+![Promotional Graphic](Visuals/Promotional.png)
 
-**Reflection:** Explain your design choices in 2–3 sentences.
-
----
-
-### Project 4 — [Interactive Interaction & Motion]
-
-![Project 3 Preview](docs/project3-infographic.png)
-
-**Reflection:** Explain your design choices in 2–3 sentences.
+**Reflection:** Write 2–3 sentences about your design choices here.
 
 ---
 
-### Project 5 — [Prototyping]
+### Project 3 — Infographics
 
-![Project 3 Preview](media/Javier_Canva_Prototype.docx)
+![Infographic](docs/infographic.png)
 
-**Reflection:** Explain your design choices in 2–3 sentences.
+**Reflection:** Write 2–3 sentences about your design choices here.
+
+---
+
+### Project 4 — Interactive Interaction & Motion
+
+> 🎬 No preview file found — add a screenshot to `media/` and update this line.
+
+**Reflection:** Write 2–3 sentences about your design choices here.
+
+---
+
+### Project 5 — Prototyping
+
+> 📄 [Download Prototype Document](media/Javier_Canva_Prototype.docx)  
+> 🎬 [Watch Introduction Video](media/Javier_introduction.mp4)
+
+**Reflection:** Write 2–3 sentences about your design choices here.
 
 ---
 
