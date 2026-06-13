@@ -1,6 +1,6 @@
 # Gavin Javier — Portfolio
 
-![Header Banner](branding/header.png)
+![Header Banner](Brand-assets/header.png)
 
 > **"Building a future in corporate finance."**
 
