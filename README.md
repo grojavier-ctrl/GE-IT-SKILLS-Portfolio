@@ -24,8 +24,8 @@ Greetings! I am Gavin Javier, I have a huge passion for everything finance relat
 
 
 
-I designed this as a personal resume applying the C.R.A.P. principles — Contrast, Repetition, Alignment, and Proximity. I used a dark navy background with teal typography to create strong contrast and a professional, finance-forward aesthetic. The layout groups related content into clear sections so the hierarchy is immediately readable.
----
+**I designed this as a personal resume applying the C.R.A.P. principles — Contrast, Repetition, Alignment, and Proximity. I used a dark navy background with teal typography to create strong contrast and a professional, finance-forward aesthetic. The layout groups related content into clear sections so the hierarchy is immediately readable.
+**---
 
 ### Project 2 — Social Media Bundle
 
