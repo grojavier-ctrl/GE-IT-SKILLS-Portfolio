@@ -47,6 +47,7 @@ existing tools fail, then presenting a fintech solution — so the data tells a 
 ### Project 4 — Interactive Interaction & Motion
 
 ![Prototyping Preview](media/Introduction_preview.gif)
+> 📥 [Download Full Video](media/Javier_introduction.mp4)
 
 
 
@@ -57,7 +58,7 @@ This piece explores how motion and interactivity can bring a personal brand to l
 ### Project 5 — Prototyping
 
 > 📄 [Download Prototype Document](media/Javier_Canva_Prototype.docx)  
-> 🎬 [Watch Introduction Video](media/Javier_introduction.mp4)
+
 
 This prototype maps out the user experience of a finance-focused personal brand page, testing how layout and flow affect how viewers engage with my work. I used Canva to rapidly prototype the structure before committing to a final design, which helped me refine the placement of key sections like services and contact. The process reinforced how important it is to think through the user journey before designing for aesthetics.
 
