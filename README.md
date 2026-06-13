@@ -24,15 +24,16 @@ Greetings! I am Gavin Javier, I have a huge passion for everything finance relat
 
 
 
-**I designed this as a personal resume applying the C.R.A.P. principles — Contrast, Repetition, Alignment, and Proximity. I used a dark navy background with teal typography to create strong contrast and a professional, finance-forward aesthetic. The layout groups related content into clear sections so the hierarchy is immediately readable.
-**---
+I designed this as a personal resume applying the C.R.A.P. principles — Contrast, Repetition, Alignment, and Proximity. I used a dark navy background with teal typography to create strong contrast and a professional, finance-forward aesthetic. The layout groups related content into clear sections so the hierarchy is immediately readable.
+
+---
 
 ### Project 2 — Social Media Bundle
 
 ![Profile Banner](Visuals/Profile%20Banner.png)
 ![Promotional Graphic](Visuals/Promotional.png)
 
-Both pieces use a consistent dark navy and teal color scheme that reflects the tone of the finance industry — trustworthy, clean, and modern. The profile banner keeps it minimal with the GJ monogram logo and title, while the promotional graphic expands the brand with a services breakdown. Keeping both visually unified ensures a cohesive personal brand across platforms.
+**Both pieces use a consistent dark navy and teal color scheme that reflects the tone of the finance industry — trustworthy, clean, and modern. The profile banner keeps it minimal with the GJ monogram logo and title, while the promotional graphic expands the brand with a services breakdown. Keeping both visually unified ensures a cohesive personal brand across platforms.**
 ---
 
 ### Project 3 — Infographics
