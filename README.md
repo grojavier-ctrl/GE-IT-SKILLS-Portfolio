@@ -46,7 +46,7 @@ existing tools fail, then presenting a fintech solution — so the data tells a 
 
 ### Project 4 — Interactive Interaction & Motion
 
-![Prototyping Preview](media/Introduction_preview.gif)
+![Introduction Preview](media/Introduction_preview.gif)
 > 📥 [Download Full Video](media/Javier_introduction.mp4)
 
 
@@ -57,10 +57,10 @@ This piece explores how motion and interactivity can bring a personal brand to l
 
 ### Project 5 — Prototyping
 
-![Page 1](media/Javier_Canva_Prototype_Preview1.png)
-![Page 2](media/Javier_Canva_Prototype_Preview2.png)
-![Page 3](media/Javier_Canva_Prototype_Preview3.png)
-![Page 4](media/Javier_Canva_Prototype_Preview4.png)
+![Page 1](media/Javier_Canva_Prototype_Preview%1.png)
+![Page 2](media/Javier_Canva_Prototype_Preview%2.png)
+![Page 3](media/Javier_Canva_Prototype_Preview%3.png)
+![Page 4](media/Javier_Canva_Prototype_Preview%4.png)
 
 > 📄 [Download it the full prototype here](media/Javier_Canva_Prototype.docx)  
 
