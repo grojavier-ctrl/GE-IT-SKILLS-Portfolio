@@ -46,7 +46,7 @@ existing tools fail, then presenting a fintech solution — so the data tells a 
 
 ### Project 4 — Interactive Interaction & Motion
 
-> 🎬 [Watch Interactive & Motion Video](media/Javier_introduction.mp4)
+> 🎬 [Watch Interactive & Motion Video](media/Introduction_preview.gif)
 
 This piece explores how motion and interactivity can bring a personal brand to life beyond static design. I focused on smooth transitions and purposeful animation to guide the viewer's attention without overwhelming the content. The goal was to make the introduction feel dynamic and professional, reflecting the same polished identity carried throughout the rest of the portfolio.
 
