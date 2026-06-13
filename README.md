@@ -57,7 +57,12 @@ This piece explores how motion and interactivity can bring a personal brand to l
 
 ### Project 5 — Prototyping
 
-> 📄 [Download it here](media/Javier_Canva_Prototype.docx)  
+![Page 1](media/Javier_Canva_Prototype_Preview1.png)
+![Page 2](media/Javier_Canva_Prototype_Preview2.png)
+![Page 3](media/Javier_Canva_Prototype_Preview3.png)
+![Page 4](media/Javier_Canva_Prototype_Preview4.png)
+
+> 📄 [Download it the full prototype here](media/Javier_Canva_Prototype.docx)  
 
 
 This prototype maps out the user experience of a finance-focused personal brand page, testing how layout and flow affect how viewers engage with my work. I used Canva to rapidly prototype the structure before committing to a final design, which helped me refine the placement of key sections like services and contact. The process reinforced how important it is to think through the user journey before designing for aesthetics.
