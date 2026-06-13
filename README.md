@@ -14,9 +14,16 @@ Greetings! I am Gavin Javier, I have a huge passion for everything finance relat
 
 ## Projects
 
-### Project 1 — C.R.A.P Principles Activity
+### Project 1 — Branding
 
 > 📄 [View PDF](Brand-assets/C.R.A.P.%20Principles%20-JAVIER.pdf)
+![Brand Logo](Visuals/Brand-Logo.png)
+![Branding Palette](Visuals/branding-palette.pdf)
+![LinkedIn Banner](Visuals/linkedIn-banner.png)
+
+
+
+> 
 
 **Reflection:** Write 2–3 sentences about your design choices here. Why did you pick those colors, layout, or style? What problem were you solving?
 
