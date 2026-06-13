@@ -23,7 +23,6 @@ Greetings! I am Gavin Javier, I have a huge passion for everything finance relat
 
 
 
-> 
 
 **Reflection:** Write 2–3 sentences about your design choices here. Why did you pick those colors, layout, or style? What problem were you solving?
 
