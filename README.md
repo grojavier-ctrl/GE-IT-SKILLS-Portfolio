@@ -69,16 +69,7 @@ This prototype maps out the user experience of a finance-focused personal brand 
 
 ---
 
-## Repository Structure
 
-| Folder | Contents |
-|--------|----------|
-| `/Brand-assets` | Logo, headers, color sheets |
-| `/Visuals` | Social graphics, banners |
-| `/docs` | Infographics, brief reports |
-| `/media` | Videos or prototype links |
-
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavin_Ross_Javier-0d1b2e?style=for-the-badge&logo=linkedin&logoColor=64c8b4)](https://linkedin.com/in/gavin-javier-642104380/)
 [![Email](https://img.shields.io/badge/Email-reach_out-0d1b2e?style=for-the-badge&logo=gmail&logoColor=64c8b4)](mailto:grojavier@addu.edu.ph)
