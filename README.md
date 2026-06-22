@@ -69,6 +69,11 @@ This prototype maps out the user experience of a finance-focused personal brand 
 
 ---
 
+## Additional Projects
+
+### 📂 [Mindanao Regional Development Playbook](./Mindanao-Regional-Development-Playbook/)
+A hyper-localized prompt architecture, human empirical literature audit (BNPL fintech behavior), and structural environmental data analysis pipeline optimized for the Davao Region.
+* **Includes:** IGACOS System Prompt V3, AI Summary Critique Ledger, and 2021-2025 Regional Waste Trends Visualizations.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavin_Ross_Javier-0d1b2e?style=for-the-badge&logo=linkedin&logoColor=64c8b4)](https://linkedin.com/in/gavin-javier-642104380/)
