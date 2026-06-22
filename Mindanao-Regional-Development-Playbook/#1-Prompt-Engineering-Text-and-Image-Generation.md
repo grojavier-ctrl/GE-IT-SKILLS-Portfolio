@@ -122,7 +122,6 @@ off-white background. No gradients, no shadows, no text. Style: modern
 flat vector, suitable for government letterheads and community signage."
 ```
 
-> **Note for TWG:** The icon png file is included in this repository as `samal-ecotourism-icon.png`. It can be embedded directly into Word documents, PowerPoint presentations, and barangay bulletin boards without quality loss.
 
 ---
 
@@ -130,7 +129,7 @@ flat vector, suitable for government letterheads and community signage."
 
 *The following is an example of what V3 produces when submitted to an AI system:*
 
-![Samal Ecotourism Icon](./samal-ecotourism-icon.png)
+![Samal Ecotourism Icon](../Visuals/samal-ecotourism-icon.png)
 
 ---
 
