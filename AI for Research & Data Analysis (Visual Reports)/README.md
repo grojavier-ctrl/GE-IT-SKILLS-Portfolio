@@ -39,13 +39,13 @@ The cleaned dataset was mapped into two distinct, high-contrast visual matrices 
 
 ### Chart A: Waste Generation vs. Budgetary Tracking (2021–2025)
 
-![Waste Generation vs Budgetary Tracking](./Visuals/CHART%20A.png)
+![Waste Generation vs Budgetary Tracking](../Visuals/CHART%20A.png)
 
 *(Key Trend Visualized: The exponential upward trajectory of physical waste output vastly outpaces the linear, conservative growth of LGU environmental funding).*
 
 ### Chart B: Provincial Strain Breakdown (2025 Data Cut)
 
-![Provincial Strain Breakdown](./Visuals/CHART%20B.png)
+![Provincial Strain Breakdown](../Visuals/CHART%20B.png)
 
 *(Key Trend Visualized: Extreme structural concentration of waste management pressure centered heavily inside the urban core of Davao City).*
 
