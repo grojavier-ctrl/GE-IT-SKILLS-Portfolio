@@ -130,6 +130,8 @@ flat vector, suitable for government letterheads and community signage."
 
 *The following is an example of what V3 produces when submitted to an AI system:*
 
+![Samal Ecotourism Icon](./samal-ecotourism-icon.png)
+
 ---
 
 ### Situation Summary
