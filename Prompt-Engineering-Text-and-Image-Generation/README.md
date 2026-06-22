@@ -185,7 +185,11 @@ A minimum of 80% of all tour boat operators operating within the Caliclic and Ca
 ---
 
 *Prepared by: Gavin Ross O. Javier*
+
 *Program: BSFINANCE*
-*Institution: ATENEO DE DAVAO UNIVERSITY
+
+*Institution: ATENEO DE DAVAO UNIVERSITY*
+
 *Date: June 2026*
+
 *Repository: https://github.com/grojavier-ctrl/GE-IT-SKILLS-Portfolio*
