@@ -39,19 +39,13 @@ The cleaned dataset was mapped into two distinct, high-contrast visual matrices 
 
 ### Chart A: Waste Generation vs. Budgetary Tracking (2021–2025)
 
-Year | Avg Daily Waste (MT) | Actual LGU SWM Budget Allocation (PHP)
-2021 | ■■■■■ 420 MT         | ₱₱₱ 45M
-2022 | ■■■■■■ 510 MT        | ₱₱₱ 48M (Imputed Baseline)
-2023 | ■■■■■■■■ 780 MT      | ₱₱₱₱ 52M
-2024 | ■■■■■■■■■■ 920 MT    | ₱₱₱₱ 55M
-2025 | ■■■■■■■■■■■■ 1,150 MT| ₱₱₱₱ 58M
+![Waste Generation vs Budgetary Tracking](./visuals/CHART%20A.png)
 
 *(Key Trend Visualized: The exponential upward trajectory of physical waste output vastly outpaces the linear, conservative growth of LGU environmental funding).*
 
 ### Chart B: Provincial Strain Breakdown (2025 Data Cut)
-Davao City      | █████████████████████████ 65% of Total Regional Waste Volume
-Davao del Norte | ██████████ 23% of Total Regional Waste Volume
-Davao de Oro    | ████ 12% of Total Regional Waste Volume
+
+![Provincial Strain Breakdown](./visuals/CHART%20B.png)
 
 *(Key Trend Visualized: Extreme structural concentration of waste management pressure centered heavily inside the urban core of Davao City).*
 
